@@ -1,0 +1,82 @@
+[
+    {
+       "restaurantName":"Bronco",
+       "address":"39 Rue des Petites Écuries, 75010 Paris",
+       "lat":48.8737815,
+       "long":2.3501649,
+       "ratings":[
+          {
+             "stars":4,
+             "comment":"Un excellent restaurant, j'y reviendrai ! Par contre il vaut mieux aimer la viande."
+          },
+          {
+             "stars":5,
+             "comment":"Tout simplement mon restaurant préféré !"
+          }
+       ]
+    },
+    {
+       "restaurantName":"Babalou",
+       "address":"4 Rue Lamarck, 75018 Paris",
+       "lat":48.8865035,
+       "long":2.3442197,
+       "ratings":[
+          {
+             "stars":5,
+             "comment":"Une minuscule pizzeria délicieuse cachée juste à côté du Sacré choeur !"
+          },
+          {
+             "stars":3,
+             "comment":"J'ai trouvé ça correct, sans plus"
+          }
+       ]
+    },
+    {
+        "restaurantName":"Le Raspail",
+        "address":"58 Boulevard Raspail, 75006 Paris",
+        "lat":48.8497446,
+        "long":2.3271968,
+        "ratings":[
+           {
+              "stars":5,
+              "comment":"Bon rapport qualité prix. L'équipe de restauration est au petit soin pour ses clients."
+           },
+           {
+              "stars":4,
+              "comment":"Plats plutôt bons et bon accueil"
+           }
+        ]
+    },
+    {
+        "restaurantName":"Le Rousseau",
+        "address":"45 Rue du Cherche-Midi, 75006 Paris",
+        "lat":48.8491016,
+        "long":2.3264022,
+        "ratings":[
+           {
+              "stars":5,
+              "comment":"Le cadre est cosy et les pâtisseries qui fleurent bon le fait maison sont délicieuses."
+           },
+           {
+              "stars":3,
+              "comment":"Cuisine correcte mais le service laisse à désirer."
+           }
+        ]
+    },
+    {
+        "restaurantName":"Pizzeria Popolare",
+        "address":"111 Rue Réaumur, 75002 Paris",
+        "lat":48.8657059,
+        "long":2.3490915,
+        "ratings":[
+           {
+              "stars":4,
+              "comment":"C’est bon, j’ai pris une quatre fromages et j’étais satisfaite par le service."
+           },
+           {
+              "stars":5,
+              "comment":"Nous avons passé une superbe soirée. Les serveurs sont adorables, joyeux et le repas, les boissons étaient délicieux."
+           }
+        ]
+    }
+ ]
