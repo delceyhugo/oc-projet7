@@ -30,7 +30,7 @@ export default {
   name: 'App',
   data(){
     return{
-      apiKey : 'AIzaSyBBgoHlkn7Z5HccxXMmARhJNOrPfx8QZlg',
+      apiKey : '',
       coordsPosition : null,
       lat : null,
       lng : null,
